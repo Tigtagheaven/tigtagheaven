@@ -1,3 +1,2 @@
 # tigtagheaven
-
-# how does this work?
+# This branch is to do some iOS developenmt according to the iOS courses on Coursera.
